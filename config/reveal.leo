@@ -25,14 +25,41 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20190104112832.1" a="E"><vh>1</vh>
+<v t="leo.20190104112832.1"><vh>1</vh>
 <v t="leo.20180827201621.12"><vh>組員工作</vh></v>
 </v>
-<v t="leo.20190104112925.1" a="E"><vh>2</vh>
+<v t="leo.20190104112925.1"><vh>2</vh>
 <v t="leo.20190104112925.2"><vh>組員github</vh></v>
 </v>
+<v t="leo.20190111002447.1" a="E"><vh>3</vh>
+<v t="leo.20190111002447.2"><vh>摘要</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20190111003448.1" a="E"><vh>4</vh>
+<v t="leo.20190111003448.2"><vh>動機</vh></v>
+</v>
+<v t="leo.20190111003613.1"><vh>5</vh>
+<v t="leo.20190111003613.2"><vh>目的</vh></v>
+</v>
+<v t="leo.20190111004232.1" a="E"><vh>6</vh>
+<v t="leo.20190111004232.2"><vh>問題與檢討</vh></v>
+</v>
+</v>
+<v t="leo.20190110142202.1" a="E"><vh>作品</vh>
+<v t="leo.20190110142202.2" a="E"><vh>1</vh>
+<v t="leo.20190110142202.3"><vh>Onshape</vh></v>
+</v>
+</v>
+<v t="leo.20190111004800.1" a="E"><vh>總結</vh>
+<v t="leo.20190111004800.2" a="E"><vh>1</vh>
+<v t="leo.20190111004800.3"><vh>總結</vh></v>
+</v>
+</v>
+<v t="leo.20190111005429.1" a="E"><vh>作品</vh>
+<v t="leo.20190111005429.2" a="E"><vh>1</vh>
+<v t="leo.20190111005429.3"><vh>Onshape</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -134,7 +161,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## AG10網際簡報
 
-### 虎科機械設計二甲
+### 虎尾科技大學四設計二甲
 
 專題:機械手臂
 
@@ -373,14 +400,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190104112925.2"># 組員github
+<t tx="leo.20190104112925.2">## 小組成員github&lt;small&gt;
+
 [AG10](https://github.com/mdecadp2018/finalproject-ag10)
 
 組長:
 
 [40623134](https://github.com/mdecadp2018/site-40623134)
 
-組員:
+* 組員:
 
 [40623132](https://github.com/mdecadp2018/site-40623132)
 
@@ -392,7 +420,151 @@ make.start()
 
 [40623140](https://github.com/mdecadp2018/site-40623140)
 
+&lt;/small&gt;
 
+</t>
+<t tx="leo.20190110142202.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110142202.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190110142202.3"># Onshape
+## 機械手臂零件圖
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-22-10.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-22-24.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-22-36.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-22-53.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-23-07.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-23-31.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-23-43.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-24-00.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-24-10.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-24-18.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_21-24-51.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://github.com/mdecadp2018/finalproject-ag10/blob/gh-pages/images/chrome_2019-01-10_23-44-54.png?raw=true" width="110" height="110" frameborder="0" &gt;&lt;/image&gt;
+
+
+</t>
+<t tx="leo.20190111002447.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111002447.2"># 摘要
+* 透過繪製零件，設計機械手臂
+* 使用v-rep模擬，檢查設計是否可行</t>
+<t tx="leo.20190111003448.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111003448.2"># 動機
+*  根據老師所給的題目選取其中一項來做，因為覺得有趣最終選擇機械手臂的項目</t>
+<t tx="leo.20190111003613.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111003613.2"># 目的
+* 更加熟練onshape協同與繪製
+* 使用v-rep模擬分析</t>
+<t tx="leo.20190111004232.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111004232.2"># 遇到的問題
+* 齒輪的設計
+* v-rep模擬無法施行的狀況
+</t>
+<t tx="leo.20190111004800.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111004800.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111004800.3"># 總結
+* 我們在專題製作的過程遇到了很多問題光是想齒輪該設計就慌了一些時間，還有程式發生一些錯誤在同學燈的幫助下，順利解決並完成專題製作。此外大家都有條不紊的完成自己的工作讓工作以非常快速且順利地結束。
+</t>
+<t tx="leo.20190111005429.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111005429.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111005429.3"># THE END
 </t>
 </tnodes>
 </leo_file>
