@@ -24,12 +24,20 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20190104112832.1" a="E"><vh>1</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20190104112832.1"><vh>1</vh>
 <v t="leo.20180827201621.12"><vh>組員工作</vh></v>
 </v>
-<v t="leo.20190104112925.1" a="E"><vh>2</vh>
+<v t="leo.20190104112925.1"><vh>2</vh>
 <v t="leo.20190104112925.2"><vh>組員github</vh></v>
+</v>
+</v>
+<v t="leo.20190110142202.1" a="E"><vh>作品</vh>
+<v t="leo.20190110142202.2" a="E"><vh>1</vh>
+<v t="leo.20190110142202.3"><vh>Onshape</vh></v>
+</v>
+<v t="leo.20190110142202.4" a="E"><vh>2</vh>
+<v t="leo.20190110142202.5"><vh>V-rep</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -391,6 +399,46 @@ make.start()
 [40623146](https://github.com/mdecadp2018/site-40623146)
 
 [40623140](https://github.com/mdecadp2018/site-40623140)
+
+
+</t>
+<t tx="leo.20190110142202.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110142202.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190110142202.3"># Oshape
+## 機械手臂
+* 
+
+
+</t>
+<t tx="leo.20190110142202.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190110142202.5"># V-rep
+
 
 
 </t>
