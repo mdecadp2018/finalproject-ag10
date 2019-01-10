@@ -564,7 +564,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190111005429.3">#THE END
+<t tx="leo.20190111005429.3"># THE END
 </t>
 </tnodes>
 </leo_file>
